@@ -46,7 +46,7 @@ public class Warrior {
    public void chargeMana() {
       maNa = maNa +10;
    }
-   // 현재 내 hp값 리턴하기
+   // 현재 내 h p 값 리턴하기
    
    public double getHp() {
       return WarriorHealth;
