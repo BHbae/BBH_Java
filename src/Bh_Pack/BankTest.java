@@ -8,5 +8,5 @@ public class BankTest {
 		int get = b1.withdraw(10000);
 		System.out.println("금액 : " + get);
 		
-
+	}
 }
